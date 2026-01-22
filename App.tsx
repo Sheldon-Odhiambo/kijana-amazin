@@ -244,7 +244,7 @@ const App: React.FC = () => {
           <div className="flex items-center gap-3 cursor-pointer group" onClick={() => navigateTo('home')}>
             <div className="w-10 h-10 md:w-12 md:h-12 rounded-full overflow-hidden shadow-lg group-hover:shadow-slate-900/40 transition-shadow flex items-center justify-center bg-white">
                   <img 
-                    src={logo}  // Make sure 'logo' is imported at the top
+                    src={logo}  // 'logo' is imported at the top
                     alt="KA Logo" 
                     className="w-full h-full object-cover"
                   />

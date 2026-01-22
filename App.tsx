@@ -614,7 +614,7 @@ const App: React.FC = () => {
               <div className="grid md:grid-cols-2 gap-16 md:gap-32 items-center">
                  <div className="space-y-12 animate-fade-up">
                     <span className="text-[10px] font-black uppercase tracking-[0.6em] text-[#FFD8BE]">01 / THE SOURCE</span>
-                    <h3 className="text-5xl md:text-8xl font-black uppercase italic tracking-tighter leading-none">NAKURU <br/>ORIGINS.</h3>
+                    <h3 className="text-5xl md:text-8xl font-black uppercase italic tracking-tighter leading-none">NAX <br/>ORIGINS.</h3>
                     <p className="text-xl md:text-2xl text-slate-600 font-medium italic leading-relaxed">
                        "Every young visionary in Nakuru knows the weight of the morning cold. The courts aren't just concrete; they are the forge of our grit."
                     </p>
@@ -624,7 +624,7 @@ const App: React.FC = () => {
                        <img src="https://images.unsplash.com/photo-1519861531473-9200262188bf?q=80&w=1200" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-[3000ms]" alt="Origins" />
                     </div>
                     <div className="absolute -bottom-10 -right-10 w-48 h-48 md:w-64 md:h-64 rounded-full border-8 border-white overflow-hidden shadow-3xl transform rotate-12 hidden md:block">
-                       <img src="https://images.unsplash.com/photo-1543326727-cf6c39e8f84c?q=80&w=600" className="w-full h-full object-cover" alt="Detail" />
+                       <img src="./assets/crophoodie.jpeg" className="w-full h-full object-cover" alt="Detail" />
                     </div>
                  </div>
               </div>
@@ -636,7 +636,7 @@ const App: React.FC = () => {
                     "Do you remember the sound of a basketball bouncing on dry asphalt at 5:00 AM? That's the rhythm of anyone who wants to be Amazing. Whether you're holding a ball or a dream, we are built the same."
                  </p>
                  <div className="pt-8">
-                    <span className="text-[10px] font-black uppercase tracking-[0.5em] text-slate-400">EST. 2024 / NAKURU DISTRICT</span>
+                    <span className="text-[10px] font-black uppercase tracking-[0.5em] text-slate-400">EST. 2018 / NAX</span>
                  </div>
               </div>
 
@@ -650,7 +650,7 @@ const App: React.FC = () => {
                  </div>
                  <div className="md:order-1 relative group">
                     <div className="aspect-[4/5] rounded-[3rem] md:rounded-[5rem] overflow-hidden border-8 md:border-[20px] border-white shadow-4xl transform rotate-3 hover:rotate-0 transition-all duration-1000">
-                       <img src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?q=80&w=1200" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-[3000ms]" alt="Design" />
+                       <img src="./assets/colection .jpeg" className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-[3000ms]" alt="Design" />
                     </div>
                  </div>
               </div>

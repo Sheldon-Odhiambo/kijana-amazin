@@ -65,7 +65,7 @@ export const PRODUCTS: Product[] = [
 ];
 
 export const LOOKBOOK_IMAGES = [
-  "./assets/hd3.jpeg",
+  "/assets/hd3.jpeg",
 "./assets/look6.jpeg",
 "./assets/looouk.jpeg",
 "./assets/mocha.jpeg",
